@@ -1,1 +1,1 @@
-testing CI workflow using github Act
+Testing CI workflow using github Act
